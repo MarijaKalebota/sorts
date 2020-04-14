@@ -32,4 +32,3 @@ def test_mixed_types_in_input():
 
 def test_non_comparable_types():
     assert False
-

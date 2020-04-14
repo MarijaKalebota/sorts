@@ -9,7 +9,6 @@ def bubble_sort(input_array):
     return input_array
 
 
-
 if __name__ == "__main__":
     INPUT_ARRAY = [17, 2, 9, 0, 0, -5, 17, 8, 1]
     print(bubble_sort(INPUT_ARRAY))
